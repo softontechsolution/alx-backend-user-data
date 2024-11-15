@@ -1,4 +1,4 @@
-# Simple API
+# Simple API by ALX
 
 Simple HTTP API for playing with `User` model.
 
